@@ -8,7 +8,7 @@
 - Nível Júnior
     - [Primeira Fase]
       - [x] Idade de Camila
-      - [ ] Plano de internet
+      - [x] Plano de internet
       - [ ] Torneio de tênis
     - [Segunda Fase]
       - [ ] Anagrama
