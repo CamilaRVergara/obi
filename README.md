@@ -9,7 +9,7 @@
     - [Primeira Fase]
       - [x] Idade de Camila
       - [x] Plano de internet
-      - [ ] Torneio de tênis
+      - [x] Torneio de tênis
     - [Segunda Fase]
       - [ ] Anagrama
       - [ ] Duplas de tênis
