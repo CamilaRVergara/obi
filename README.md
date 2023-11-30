@@ -11,7 +11,7 @@
       - [x] Plano de internet
       - [x] Torneio de tênis
     - [Segunda Fase]
-      - [ ] Anagrama
+      - [x] Anagrama
       - [ ] Duplas de tênis
       - [ ] Média ou mediana
       - [ ] Pangrama
