@@ -12,7 +12,7 @@
       - [x] Torneio de tênis
     - [Segunda Fase]
       - [x] Anagrama
-      - [ ] Duplas de tênis
+      - [x] Duplas de tênis
       - [ ] Média ou mediana
       - [ ] Pangrama
       - [ ] Pesquisa de preços
