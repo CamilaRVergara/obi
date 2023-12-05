@@ -13,7 +13,7 @@
     - [Segunda Fase]
       - [x] Anagrama
       - [x] Duplas de tênis
-      - [ ] Média ou mediana
+      - [x] Média ou mediana
       - [ ] Pangrama
       - [ ] Pesquisa de preços
       - [ ] Potência
