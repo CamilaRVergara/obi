@@ -14,7 +14,7 @@
       - [x] Anagrama
       - [x] Duplas de tênis
       - [x] Média ou mediana
-      - [ ] Pangrama
+      - [x] Pangrama
       - [ ] Pesquisa de preços
       - [ ] Potência
       - [ ] Recorde
