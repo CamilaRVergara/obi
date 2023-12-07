@@ -15,7 +15,7 @@
       - [x] Duplas de tênis
       - [x] Média ou mediana
       - [x] Pangrama
-      - [ ] Pesquisa de preços
+      - [x] Pesquisa de preços
       - [ ] Potência
       - [ ] Recorde
       - [ ] Robô
