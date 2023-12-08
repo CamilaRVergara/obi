@@ -16,7 +16,7 @@
       - [x] Média ou mediana
       - [x] Pangrama
       - [x] Pesquisa de preços
-      - [ ] Potência
+      - [x] Potência
       - [ ] Recorde
       - [ ] Robô
     - [Terceira Fase]
