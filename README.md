@@ -17,7 +17,7 @@
       - [x] Pangrama
       - [x] Pesquisa de preços
       - [x] Potência
-      - [ ] Recorde
+      - [x] Recorde
       - [ ] Robô
     - [Terceira Fase]
       - [ ] Casamento de inteiros
