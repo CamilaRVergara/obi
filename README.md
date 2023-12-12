@@ -18,7 +18,7 @@
       - [x] Pesquisa de preços
       - [x] Potência
       - [x] Recorde
-      - [ ] Robô
+      - [x] Robô
     - [Terceira Fase]
       - [ ] Casamento de inteiros
       - [ ] Ogro
