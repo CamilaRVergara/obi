@@ -20,7 +20,7 @@
       - [x] Recorde
       - [x] Robô
     - [Terceira Fase]
-      - [ ] Casamento de inteiros
+      - [x] Casamento de inteiros
       - [ ] Ogro
       - [ ] Plano de estacionamento
       - [ ] Sr. Sapo
