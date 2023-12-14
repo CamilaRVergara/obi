@@ -21,7 +21,7 @@
       - [x] Robô
     - [Terceira Fase]
       - [x] Casamento de inteiros
-      - [ ] Ogro
+      - [x] Ogro
       - [ ] Plano de estacionamento
       - [ ] Sr. Sapo
 - Nível 1
