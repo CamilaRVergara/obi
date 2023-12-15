@@ -22,7 +22,7 @@
     - [Terceira Fase]
       - [x] Casamento de inteiros
       - [x] Ogro
-      - [ ] Plano de estacionamento
+      - [x] Plano de estacionamento
       - [ ] Sr. Sapo
 - Nível 1
     - [Primeira Fase]
